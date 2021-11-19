@@ -94,4 +94,4 @@ comment12
 comment13
 comment18
 comment20
-comment22 Jira integration
+comment21 Jira integration
